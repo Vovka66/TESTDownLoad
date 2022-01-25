@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application ApartmentParameters</Name>
+    <Assembly>ApartmentParameters.dll</Assembly>
+    <FullClassName>ApartmentParameters.App</FullClassName>
+    <ClientId>4041a515-d3b9-4fd9-82f5-174efbac3bbe</ClientId>
+    <VendorId>YAVI.BP</VendorId>
+    <VendorDescription>Yakovlev.Brusnika, yakovlev@brusnika.ru </VendorDescription>
+  </AddIn>
+</RevitAddIns>
