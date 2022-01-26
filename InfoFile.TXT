@@ -2,5 +2,5 @@ v 2019
 v 2020
 v 2021
 v 2022
-2022  https://raw.githubusercontent.com/Vovka66/TESTDownLoad/main/BRUCP2022/ApartmentParameters.addin C:\ProgramData\Autodesk\Revit\Addins\2022
-2022  https://raw.githubusercontent.com/Vovka66/TESTDownLoad/main/BRUCP2022/ApartmentParameters.dll C:\ProgramData\Autodesk\Revit\Addins\2022
+2022	https://raw.githubusercontent.com/Vovka66/TESTDownLoad/main/BRUCP2022/ApartmentParameters.addin	C:\ProgramData\Autodesk\Revit\Addins\2022
+2022	https://raw.githubusercontent.com/Vovka66/TESTDownLoad/main/BRUCP2022/ApartmentParameters.dll	C:\ProgramData\Autodesk\Revit\Addins\2022
