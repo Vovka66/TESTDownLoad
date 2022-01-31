@@ -2,5 +2,20 @@ v 2019
 v 2020
 v 2021
 v 2022
-2022	https://raw.githubusercontent.com/Vovka66/TESTDownLoad/main/BRUCP2022/ApartmentParameters.addin	C:\ProgramData\Autodesk\Revit\Addins\2022
-2022	https://raw.githubusercontent.com/Vovka66/TESTDownLoad/main/BRUCP2022/ApartmentParameters.dll	C:\ProgramData\Autodesk\Revit\Addins\2022
+2019	https://raw.githubusercontent.com/Vovka66/TESTDownLoad/main/AllNew2019/ApartmentParameters.addin	C:\ProgramData\Autodesk\Revit\Addins\2019
+2019	https://raw.githubusercontent.com/Vovka66/TESTDownLoad/main/AllNew2019/ApartmentParameters.dll	C:\ProgramData\Autodesk\Revit\Addins\2019
+2019	https://raw.githubusercontent.com/Vovka66/TESTDownLoad/main/AllNew2019/EPPlus.dll	C:\ProgramData\Autodesk\Revit\Addins\2019
+2019	https://raw.githubusercontent.com/Vovka66/TESTDownLoad/main/AllNew2019/Newtonsoft.Json.dll	C:\ProgramData\Autodesk\Revit\Addins\2019
+2019	https://raw.githubusercontent.com/Vovka66/TESTDownLoad/main/AllNew2019/RestSharp.dll	C:\ProgramData\Autodesk\Revit\Addins\2019
+
+2021	https://raw.githubusercontent.com/Vovka66/TESTDownLoad/main/AllNew2021/ApartmentParameters.addin	C:\ProgramData\Autodesk\Revit\Addins\2021
+2021	https://raw.githubusercontent.com/Vovka66/TESTDownLoad/main/AllNew2021/ApartmentParameters.dll	C:\ProgramData\Autodesk\Revit\Addins\2021
+2021	https://raw.githubusercontent.com/Vovka66/TESTDownLoad/main/AllNew2021/EPPlus.dll	C:\ProgramData\Autodesk\Revit\Addins\2021
+2021	https://raw.githubusercontent.com/Vovka66/TESTDownLoad/main/AllNew2021/Newtonsoft.Json.dll	C:\ProgramData\Autodesk\Revit\Addins\2021
+2021	https://raw.githubusercontent.com/Vovka66/TESTDownLoad/main/AllNew2021/RestSharp.dll	C:\ProgramData\Autodesk\Revit\Addins\2021
+
+2022	https://raw.githubusercontent.com/Vovka66/TESTDownLoad/main/AllNew2022/ApartmentParameters.addin	C:\ProgramData\Autodesk\Revit\Addins\2022
+2022	https://raw.githubusercontent.com/Vovka66/TESTDownLoad/main/AllNew2022/ApartmentParameters.dll	C:\ProgramData\Autodesk\Revit\Addins\2022
+2022	https://raw.githubusercontent.com/Vovka66/TESTDownLoad/main/AllNew2022/EPPlus.dll	C:\ProgramData\Autodesk\Revit\Addins\2022
+2022	https://raw.githubusercontent.com/Vovka66/TESTDownLoad/main/AllNew2022/Newtonsoft.Json.dll	C:\ProgramData\Autodesk\Revit\Addins\2022
+2022	https://raw.githubusercontent.com/Vovka66/TESTDownLoad/main/AllNew2022/RestSharp.dll	C:\ProgramData\Autodesk\Revit\Addins\2022
