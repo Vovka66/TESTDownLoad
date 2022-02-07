@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application SetAdskFloorParam</Name>
+    <Assembly>SetAdskFloorParam.dll</Assembly>
+    <FullClassName>SetAdskFloorParam.App</FullClassName>
+    <ClientId>ec9ca4ea-7721-4c7b-b13e-b47e38a106fc</ClientId>
+    <VendorId>Yakovlev</VendorId>
+    <VendorDescription>Yakovlev.Brusnika, yakovlev@brusnika.ru</VendorDescription>
+  </AddIn>
+</RevitAddIns>

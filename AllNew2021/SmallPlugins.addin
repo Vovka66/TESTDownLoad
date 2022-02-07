@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application SmallPlugins</Name>
+    <Assembly>SmallPlugins.dll</Assembly>
+    <FullClassName>SmallPlugins.App</FullClassName>
+    <ClientId>e8bdc22d-b646-4d4f-a920-0496df5f7ccd</ClientId>
+    <VendorId>Yakovlev</VendorId>
+    <VendorDescription>Brusnika https://ekaterinburg.brusnika.ru/</VendorDescription>
+  </AddIn>
+</RevitAddIns>
