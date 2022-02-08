@@ -7,6 +7,8 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SetAdskFloorParam.addin
 DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SetAdskFloorParam.dll
 DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\CreateSheetsWithPlans.addin
 DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\CreateSheetsWithPlans.dll
+DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.addin
+DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 
 2019	https://raw.githubusercontent.com/Vovka66/TESTDownLoad/main/AllNew2019/ApartmentParameters.addin	C:\ProgramData\Autodesk\Revit\Addins\2019
 2019	https://raw.githubusercontent.com/Vovka66/TESTDownLoad/main/AllNew2019/ApartmentParameters.dll	C:\ProgramData\Autodesk\Revit\Addins\2019
